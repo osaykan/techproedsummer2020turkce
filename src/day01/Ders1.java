@@ -12,23 +12,23 @@ public class Ders1 {
 		System.out.print(paraBirimi);
 		System.out.println(paraBirimi2);
 		
-		byte anzahlderSchüler = 12;
-		System.out.println("Anzahl der Schüler von Klasse : " + anzahlderSchüler);
+		byte anzahlderSchÃ¼ler = 12;
+		System.out.println("Anzahl der SchÃ¼ler von Klasse : " + anzahlderSchÃ¼ler);
 		
-	    short anzahlderSchüler1 = 1500;
-	    System.out.println("Anzahl der Schüler von Schule : " + anzahlderSchüler1);
+	    short anzahlderSchÃ¼ler1 = 1500;
+	    System.out.println("Anzahl der SchÃ¼ler von Schule : " + anzahlderSchÃ¼ler1);
 	    
 	    int bevohnerHalle = 250000;
 	    System.out.println("Anzahl der Bewohnern von Halle Saale  : " + bevohnerHalle);
 	    
-	    long bewölkerung = 3567890123l;
-	    System.out.println("Bewölkerung von Welt  : " + bewölkerung);
+	    long bewÃ¶lkerung = 3567890123l;
+	    System.out.println("BewÃ¶lkerung von Welt  : " + bewÃ¶lkerung);
 	    
 	    double hacim = 3123.4567;
 	    System.out.println("Volumen von Lager : " + hacim);
 	    
-	    float fläche = 23.1567f;
-	    System.out.println("Fläche von Lager : " + fläche);
+	    float flÃ¤che = 23.1567f;
+	    System.out.println("FlÃ¤che von Lager : " + flÃ¤che);
 	    
 	    String namedesleiters = "Osman";
 	    System.out.println("Leiter : " + namedesleiters);
@@ -37,14 +37,15 @@ public class Ders1 {
 	    char harf2 = 'Z';
 	    
 	    System.out.println(harf1);
+		System.out.println(harf1-harf2);
 	    System.out.println(harf2);
 	    System.out.println(harf1 + harf2);
 	    
 	    int jdegeri = 'j';
-	    int großZChardegeri = 'Z';
+	    int groÃŸZChardegeri = 'Z';
 	    
 	    System.out.println("j nin Char Degeri: " + jdegeri);
-	    System.out.println("Z nin Char Degeri . " + großZChardegeri );
+	    System.out.println("Z nin Char Degeri . " + groÃŸZChardegeri );
 	    
 	    
 	    
